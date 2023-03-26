@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+<testng-results skipped="0" failed="0" total="4" passed="4">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="426" started-at="2023-03-26T11:43:18 IST" finished-at="2023-03-26T11:43:19 IST">
+  <suite name="Suite" duration-ms="175" started-at="2023-03-26T06:56:38Z" finished-at="2023-03-26T06:56:38Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="426" started-at="2023-03-26T11:43:18 IST" finished-at="2023-03-26T11:43:19 IST">
-      <class name="testgit.FirstFile">
-        <test-method status="PASS" signature="methodA()[pri:0, instance:testgit.FirstFile@79be0360]" name="methodA" duration-ms="39" started-at="2023-03-26T11:43:19 IST" finished-at="2023-03-26T11:43:19 IST">
+    <test name="Test" duration-ms="175" started-at="2023-03-26T06:56:38Z" finished-at="2023-03-26T06:56:38Z">
+      <class name="testgit.FirstFileTest">
+        <test-method status="PASS" signature="methodA()[pri:0, instance:testgit.FirstFileTest@32d992b2]" name="methodA" duration-ms="57" started-at="2023-03-26T12:26:38Z" finished-at="2023-03-26T12:26:38Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- methodA -->
-        <test-method status="PASS" signature="methodB()[pri:0, instance:testgit.FirstFile@79be0360]" name="methodB" duration-ms="7" started-at="2023-03-26T11:43:19 IST" finished-at="2023-03-26T11:43:19 IST">
+        <test-method status="PASS" signature="methodB()[pri:0, instance:testgit.FirstFileTest@32d992b2]" name="methodB" duration-ms="5" started-at="2023-03-26T12:26:38Z" finished-at="2023-03-26T12:26:38Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- methodB -->
-      </class> <!-- testgit.FirstFile -->
-      <class name="testgit.SecondFile">
-        <test-method status="PASS" signature="methodC()[pri:0, instance:testgit.SecondFile@22a67b4]" name="methodC" duration-ms="3" started-at="2023-03-26T11:43:19 IST" finished-at="2023-03-26T11:43:19 IST">
+      </class> <!-- testgit.FirstFileTest -->
+      <class name="testgit.SecondFileTest">
+        <test-method status="PASS" signature="methodC()[pri:0, instance:testgit.SecondFileTest@9629756]" name="methodC" duration-ms="4" started-at="2023-03-26T12:26:38Z" finished-at="2023-03-26T12:26:38Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- methodC -->
-        <test-method status="PASS" signature="methodD()[pri:0, instance:testgit.SecondFile@22a67b4]" name="methodD" duration-ms="7" started-at="2023-03-26T11:43:19 IST" finished-at="2023-03-26T11:43:19 IST">
+        <test-method status="PASS" signature="methodD()[pri:0, instance:testgit.SecondFileTest@9629756]" name="methodD" duration-ms="3" started-at="2023-03-26T12:26:38Z" finished-at="2023-03-26T12:26:38Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- methodD -->
-      </class> <!-- testgit.SecondFile -->
+      </class> <!-- testgit.SecondFileTest -->
     </test> <!-- Test -->
   </suite> <!-- Suite -->
 </testng-results>
