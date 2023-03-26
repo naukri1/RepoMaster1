@@ -2,7 +2,7 @@ package testgit;
 
 import org.testng.annotations.Test;
 
-public class FirstFile {
+public class FirstFileTest {
 
 	
 	@Test
