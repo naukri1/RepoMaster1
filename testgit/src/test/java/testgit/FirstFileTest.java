@@ -9,6 +9,7 @@ public class FirstFileTest {
 	public void methodA() {
 		
 		System.out.println("This is method A from firstfile");
+		System.out.println("Allfix");
 	}
 	
 	@Test
